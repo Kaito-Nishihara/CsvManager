@@ -25,7 +25,7 @@ dotnet add package CsvManager
 
 ### **Prerequisites**
 
-- .NET 6.0 or later
+- .NET 8.0 or later
 - Entity Framework Core
 - AutoMapper
 
